@@ -1,0 +1,29 @@
+page-home {
+  .scroll-content {
+    background: black url("../assets/imgs/background.jpg") center center no-repeat;
+    background-size: cover;
+    color: white;
+  }
+
+  .list-button-items {
+    .button-item {
+      .item-inner {
+        img {
+          width: 20%;
+          height: auto;
+          vertical-align: middle;
+          display: inline-block;
+          margin-right: 2%;
+        }
+
+        label {
+          color: white;
+        }
+
+        border-bottom: none;
+      }
+
+      background: transparent;
+    }
+  }
+}

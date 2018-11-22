@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Colored Crayons';
+    src: url('ColoredCrayons.eot');
+    src: url('ColoredCrayons.eot?#iefix') format('embedded-opentype'),
+        url('ColoredCrayons.woff2') format('woff2'),
+        url('ColoredCrayons.woff') format('woff'),
+        url('ColoredCrayons.ttf') format('truetype'),
+        url('ColoredCrayons.svg#ColoredCrayons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,22 @@
+<ion-content padding>
+  <ion-refresher (ionRefresh)="ionViewDidLoad($event)">
+    <ion-refresher-content 
+      pullingText="Actualizar audios" 
+      refreshingSpinner="circles"
+      refreshingText="Cargando audios...">
+    </ion-refresher-content>
+  </ion-refresher>
+  <ion-searchbar placeholder="Buscar..." [(ngModel)]="search_text"></ion-searchbar>
+
+  <ion-list class="list-button-items">
+
+    <button *ngFor="let item of items | search: { title: search_text }" (click)="play(item)" class="button-item"
+      ion-item>
+
+      <img src="assets/imgs/button.png" alt="▶">
+      <label>{{ item.title }}</label>
+
+    </button>
+
+  </ion-list>
+</ion-content>
