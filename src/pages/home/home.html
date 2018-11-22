@@ -10,7 +10,7 @@
 
   <ion-list class="list-button-items">
 
-    <button *ngFor="let item of items | search: { title: search_text }" (click)="play(item)" class="button-item"
+    <button *ngFor="let item of items | search: { title: search_text }" (tap)="play(item)" class="button-item"
       ion-item>
 
       <img src="assets/imgs/button.png" alt="▶">
