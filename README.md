@@ -1,7 +1,7 @@
 # Memetonera Autista
 
 | Home        | Cargando           | Buscar  |
-| ------------- |:-------------:| -----:|
+|:-------------:|:-------------:|:-----:|
 | ![Screenshot 1](https://raw.githubusercontent.com/bssanchez/memetonera/master/resources/screenshots/screenshot-1.png "Logo Title Text 1")      | ![Screenshot 1](https://raw.githubusercontent.com/bssanchez/memetonera/master/resources/screenshots/screenshot-2.png "Logo Title Text 1") | ![Screenshot 1](https://raw.githubusercontent.com/bssanchez/memetonera/master/resources/screenshots/screenshot-3.png "Logo Title Text 1") |
 
 Aplicación al estilo botonera con sonidos random para cada ocasión. Realizada en [Ionic 3](https://ionicframework.com/docs/) (bien sencillita para que cualquiera pueda apoyar)
