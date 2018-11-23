@@ -16,10 +16,10 @@ Los Aufios se agregan a través del archivo _audios.json_ que se encuentra en el
 
 ## Versiones
 
-**0.0.1**
+**0.0.2**
 
-* DEBUG - [Descargar versión debug 0.0.1](https://github.com/bssanchez/memetonera/blob/master/apk/memetonera-debug-v0.0.1.apk?raw=true)
-* RELEASE - [Descargar versión release/prod 0.0.1](https://github.com/bssanchez/memetonera/blob/master/apk/memetonera-prod-v0.0.1.apk?raw=true)
+* DEBUG - [Descargar versión debug](https://github.com/bssanchez/memetonera/blob/master/apk/memetonera-debug-v0.0.2.apk?raw=true)
+* RELEASE - [Descargar versión release/prod](https://github.com/bssanchez/memetonera/blob/master/apk/memetonera-prod-v0.0.2.apk?raw=true)
 
 ## Instalación
 
